@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ArbutusNate/Flashcard-Generator/issues"
   },
-  "homepage": "https://github.com/ArbutusNate/Flashcard-Generator#readme"
+  "homepage": "https://github.com/ArbutusNate/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.2.0"
+  }
 }
